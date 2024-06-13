@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "ML-PROJECT-E2E"
 AUTHOR_USER_NAME = "Mehdi Lassoued"
-SRC_REPO = "ML-PROJECT-E2E"
+SRC_REPO = "mlProject"
 
 AUTHOR_EMAIL = "mehdi.lassoued@insat.ucar.tn"
 
